@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Jinbin Bai, co-founder of MeissonFlow Research.
+
+My goal is to design algorithms and build tools to make it easier for artists and designers to create cool things.
+
+We are looking for motivated collaborators and support from industry partners. The best way to reach me is via email at jinbin5bai at gmail dot com. Regardless feel free to reach out if you have extra H100s😁 (or to collab!)
 
 <!--
 **viiika/viiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
