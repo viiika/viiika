@@ -2,7 +2,7 @@
 
 I design algorithms and build models to help artists and designers create cool things. My research focuses on [**image generation**](https://github.com/viiika/Meissonic) and [**unified generative architecture**](https://github.com/M-E-AGI-Lab/Muddit) before.
 
-See [MeissonFlow Research](https://huggingface.co/MeissonFlow) (Organization Card) for more about my research journey.
+See [MeissonFlow Research](https://github.com/M-E-AGI-Lab) (Organization Card) for more about my research journey.
 
 I also share thoughts on [Twitter](https://twitter.com/Jinbin_Bai).
 
