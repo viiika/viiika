@@ -20,6 +20,10 @@ Generative, Multimodal, Interactive, Intelligence.
 
 ---
 
+Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
+
+[Travel Atlas](https://viiika.github.io/travel/)
+
 <!--
 **viiika/viiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
