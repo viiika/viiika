@@ -6,10 +6,15 @@ See [MeissonFlow Research](https://github.com/M-E-AGI-Lab) (Organization Card) f
 
 I also share thoughts on [Twitter](https://twitter.com/Jinbin_Bai).
 
+Generative, Multimodal, Interactive, Intelligence.
+
+
+
 ---
 
 ## **Education**
 
+- Ph.D. in Computer Science, National University of Singapore
 - B.S. in Computer Science (Outstanding Graduate), Nanjing University  
 - High School Diploma, The Affiliated High School of Shanxi University
 
