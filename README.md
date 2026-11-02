@@ -24,7 +24,7 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 Travel: [Travel Atlas](https://viiika.github.io/travel/)
 
-Game & Sci-Fi: [After the Answer](https://github.com/viiika/after-the-answer)
+Game & Sci-Fi: [After the Answer](https://viiika.github.io/after-the-answer/)
 
 <!--
 **viiika/viiika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
