@@ -18,6 +18,10 @@ Generative, Multimodal, Interactive, Intelligence.
 - B.S. in Computer Science (Outstanding Graduate), Nanjing University  
 - High School Diploma, The Affiliated High School of Shanxi University
 
+## **Employment**
+
+-
+
 ## **Research**
 
 - 
