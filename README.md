@@ -8,7 +8,7 @@ I also share thoughts on [Twitter](https://twitter.com/Jinbin_Bai).
 
 Generative, Multimodal, Interactive, Intelligence.
 
-
+Simplicity is the ultimate sophistication.
 
 ---
 
